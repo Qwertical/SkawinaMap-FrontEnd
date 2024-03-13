@@ -127,6 +127,7 @@ a{
     transition: ease 0.4s;
     font-size: 0%;
 }
+@media (min-width: 976px) {
 .dot:hover {
     width: 200px;
     height: 80px;
@@ -137,4 +138,5 @@ a{
 .dot h2:hover{
     opacity: 100;
     font-size: 150%;
+}
 }
